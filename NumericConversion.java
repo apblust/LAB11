@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// TODAY IS DECEMBER 4, 2019
+
 public class NumericConversion {
 
     public static long hexStringDecode(String hex) {
